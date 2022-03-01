@@ -17,7 +17,7 @@ items:
     - jenkins.branch.OrganizationFolder
     - org.jenkinsci.plugins.workflow.multibranch.WorkflowMultiBranchProject
     filter: true
-items:
+  items:
   - kind: organizationFolder
     name: controller-casc-update
     orphanedItemStrategy:
