@@ -4,7 +4,7 @@ id: "cloudbees-casc-ci-ops-controller"
 description: "CloudBees CI configuration bundle for the cloudbees-casc-ci ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-casc-ci/ops-controller"
 jcasc:
-  - "jenkins.yaml"
+  - "jcasc/"
 plugins:
   - "plugins.yaml"
 items:
