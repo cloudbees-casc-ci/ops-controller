@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "2"
+version: "3"
 id: "cloudbees-casc-ci-ops-controller"
 description: "CloudBees CI configuration bundle for the cloudbees-casc-ci ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-casc-ci/ops-controller"
